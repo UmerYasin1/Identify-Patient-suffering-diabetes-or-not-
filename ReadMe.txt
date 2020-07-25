@@ -1,7 +1,6 @@
 Identify Patient suffering diabetes or not !!
 
-In this project we have use Keras framework. we differentiate the person based on health. if the person is suffering with diabetes then it will display as "Patients" 
-otherwise it will be called as "healthy" it just takes image of you eye and print out result with 97% accuracy.
+In this project we have use Keras framework. we differentiate the person based on health. if the person is suffering with diabetes then it will display as "Patients" otherwise it will be called as "healthy" it just takes image of you eye and print out result with 97% accuracy.
 
 Source links to get DATA-SET of eyes images:
 
