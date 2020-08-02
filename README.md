@@ -5,13 +5,17 @@ In this project we have use Keras framework. we differentiate the person based o
 # Source links to get DATA-SET of eyes images:
 
 1: https://www.kaggle.com/c/diabetic-retinopathy-detection/data
+
 2: http://biometrics.idealtest.org/findTotalDbByMode.do?mode=Iris
+
 3: https://www4.comp.polyu.edu.hk/~csajaykr/IITD/Database_Iris.htm
 
 # Reading Material:
 
 1: https://www.youtube.com/watch?v=iaSUYvmCekI
+
 2: https://medium.com/@RaghavPrabhu/understanding-of-convolutional-neural-network-cnn-deep-learning-99760835f148
+
 3: https://www.coursera.org/learn/convolutional-neural-networks
 
 # Note: 
